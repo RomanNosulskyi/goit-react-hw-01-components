@@ -1,0 +1,46 @@
+.title {
+  text-align: center;
+  padding: 30px;
+  margin: 0px;
+  background-color: antiquewhite;
+}
+
+.statistics {
+  width: 400px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.statList {
+  display: flex;
+  padding: 0px;
+  justify-content: center;
+  list-style: none;
+  margin: 0px;
+}
+
+.item {
+  width: 100%;
+  padding: 10px;
+  display: grid;
+  text-align: center;
+  height: 50px;
+  background-color: aqua;
+  border: 1px solid gray;
+}
+
+.low {
+  background-color: red;
+}
+.middle {
+  background-color: yellow;
+}
+
+.height {
+  background-color: green;
+}
+
+.label {
+  color: white;
+}
